@@ -7,10 +7,6 @@
 A simple and interactive **Currency Converter Web App** built with **HTML, CSS, and JavaScript**.  
 It allows users to quickly convert values between different currencies using **real-time exchange rates**.  
 
----
-
-## 🚀 Demo  
-🔗 [Live Demo](#) <!-- Replace # with your deployed link (e.g., GitHub Pages, Netlify, Vercel) -->
 
 ---
 
@@ -27,17 +23,3 @@ It allows users to quickly convert values between different currencies using **r
 - **CSS3** – Styling & Responsive Design  
 - **JavaScript (Fetch API)** – Functionality & Real-time rates  
 
----
-
-## 📷 Screenshots  
-
-<!-- Add screenshots of your project here -->
-![App Screenshot](#)  
-
----
-
-## ⚙️ Installation & Usage  
-
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/your-username/currency-converter.git
